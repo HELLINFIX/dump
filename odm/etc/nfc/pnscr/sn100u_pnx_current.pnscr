@@ -1,0 +1,7 @@
+#PN55x
+reset 1
+interval 50
+send 20000100
+send 200100
+trigger 4F3D05
+send 2F3D020180
